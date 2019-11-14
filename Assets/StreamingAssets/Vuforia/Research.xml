@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="OkandekaDanceImage" size="0.150000 0.112500" />
+    <ImageTarget name="WeddingDanceImage" size="0.150000 0.084375" />
+    <ImageTarget name="OudanoDanceImage" size="0.150000 0.084375" />
+    <ImageTarget name="OmupembeDanceImage" size="0.150000 0.099750" />
+  </Tracking>
+</QCARConfig>
